@@ -1,6 +1,6 @@
 import projectOne from "../assets/Blade Of Ashenfire.png";
 import projectTwo from "../assets/LostInTime.png";
-import projectThree from "../assets/project-3.png";
+import projectThree from "../assets/TheCityOfArkada.png";
 
 const projects = {
   1: {
@@ -30,18 +30,17 @@ const projects = {
     demo: "https://ohestisgames.itch.io/lostintime",
   },
   3: {
-    title: "Food Delivery App",
+    title: "The City Of Arkada",
     image: projectThree,
     description: (
       <>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          The City of Arkada is a dark fantasy 2D game I developed using Unity. As my first-ever project, it was a valuable learning experience in game design, pixel art, and Unity development. I focused on building a mysterious medieval world with a distinct atmosphere. Since it was my initial attempt at game creation, I didn’t upload it to GitHub, but it remains a proud milestone in my development journey.
         </p>
       </>
     ),
-    github: "https://github.com",
-    demo: "https://netlify.com",
+    github: "",
+    demo: "https://ohestisgames.itch.io/the-city-of-arkada",
   },
 };
 
