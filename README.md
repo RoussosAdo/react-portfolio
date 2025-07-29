@@ -1,70 +1,62 @@
-# Getting Started with Create React App
+# Antonis Roussos – Game Developer Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+🎮 Unity & Unreal Engine Developer | AI Systems • 2D/3D Combat • Game Design
 
-## Available Scripts
+Hi! I'm Antonis Roussos, a passionate game developer from Greece with a BSc in Computer Games Development (University of Derby).  
+I specialize in gameplay programming, enemy AI, skill systems, level design, and complete game architecture using Unity and Unreal Engine.
 
-In the project directory, you can run:
+I’ve worked both solo and in teams, and I love turning ideas into immersive, interactive experiences.
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🚀 Featured Projects
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### ⚔️ Blades of Ashenfire
+2D action RPG with elemental combat, stat scaling, inventory, save/load, skill tree, and state machines  
+🛠️ Unity 2D, C#  
+[🔗 GitHub](https://github.com/RoussosAdo/RPG-GAME-) | [🎮 Play on Itch.io](https://ohestisgames.itch.io/blades-of-ashenfire) | [▶️ Trailer](https://www.youtube.com/watch?v=bPJu3oj72P8)
 
-### `npm test`
+![Blades Screenshot](https://img.itch.zone/aW1hZ2UvMzY3MDA0Ni8yMTgzOTE0Ni5wbmc=/original/z4wq%2FQ.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+### 🧟 Lost in Time
+3D zombie survival FPS with wave AI, blood FX, level design, NavMesh AI, and UI  
+🛠️ Unity 3D, C#  
+[🔗 GitHub](https://github.com/ApolloEs/GameDev2025) | [🎮 Play on Itch.io](https://ohestisgames.itch.io/lost-in-time) | [▶️ Trailer](https://www.youtube.com/watch?v=Q-f2iF8xw68)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 💼 Personal Portfolio Site
+React-based portfolio to showcase my games and skills  
+🛠️ React, JavaScript, Tailwind  
+[🔗 View Live](https://antonis-roussos-portfolio.netlify.app) | [🔗 GitHub](https://github.com/RoussosAdo/react-portfolio)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 🧠 Skills & Tools
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Unity (2D/3D), Unreal Engine 5
+- C#, C++, Blueprint
+- Gameplay Programming / State Machines / AI
+- Animator, NavMesh, Particle System
+- Aseprite, Photoshop
+- Git & GitHub, Miro, Visual Studio
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 📄 Resume & Links
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- 📄 [Download My CV (PDF)](link-to-your-CV.pdf) ← *(upload your final PDF version to this repo!)*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/antonis-roussos-1a05b72b2/)  
+- 🎮 [Itch.io](https://ohestisgames.itch.io)  
+- 🌐 [Portfolio Website](https://antonis-roussos-portfolio.netlify.app)  
+- 💻 [GitHub](https://github.com/RoussosAdo)
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 🗣️ Contact Me
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Feel free to reach out if you're looking for a motivated and creative game dev to join your team!  
+📬 Email: [your email here]
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
