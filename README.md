@@ -14,7 +14,7 @@ I’ve worked both solo and in teams, and I love turning ideas into immersive, i
 ### ⚔️ Blades of Ashenfire
 2D action RPG with elemental combat, stat scaling, inventory, save/load, skill tree, and state machines  
 🛠️ Unity 2D, C#  
-[🔗 GitHub](https://github.com/RoussosAdo/RPG-GAME-) | [🎮 Play on Itch.io](https://ohestisgames.itch.io/blades-of-ashenfire) | [▶️ Trailer](https://www.youtube.com/watch?v=bPJu3oj72P8)
+[🔗 GitHub](https://github.com/RoussosAdo/RPG-GAME-) | [🎮 Play on Itch.io](https://ohestisgames.itch.io/blades-of-ashenfire-demo) | [▶️ Trailer](https://www.youtube.com/watch?v=bPJu3oj72P8)
 
 ![Blades Screenshot](https://img.itch.zone/aW1hZ2UvMzY3MDA0Ni8yMTgzOTE0Ni5wbmc=/original/z4wq%2FQ.png)
 
@@ -58,5 +58,5 @@ React-based portfolio to showcase my games and skills
 ## 🗣️ Contact Me
 
 Feel free to reach out if you're looking for a motivated and creative game dev to join your team!  
-📬 Email: [your email here]
+📬 Email: [roussos.ado@gmail.com]
 
