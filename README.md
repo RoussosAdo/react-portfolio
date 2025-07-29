@@ -23,7 +23,7 @@ I’ve worked both solo and in teams, and I love turning ideas into immersive, i
 ### 🧟 Lost in Time
 3D zombie survival FPS with wave AI, blood FX, level design, NavMesh AI, and UI  
 🛠️ Unity 3D, C#  
-[🔗 GitHub](https://github.com/ApolloEs/GameDev2025) | [🎮 Play on Itch.io](https://ohestisgames.itch.io/lost-in-time) | [▶️ Trailer](https://www.youtube.com/watch?v=Q-f2iF8xw68)
+[🔗 GitHub](https://github.com/ApolloEs/GameDev2025) | [🎮 Play on Itch.io](https://ohestisgames.itch.io/lostintime) | [▶️ Trailer](https://www.youtube.com/watch?v=Q-f2iF8xw68)
 
 ---
 
