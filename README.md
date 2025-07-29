@@ -47,7 +47,7 @@ React-based portfolio to showcase my games and skills
 
 ## 📄 Resume & Links
 
-- 📄 [Download My CV (PDF)](AntonisRoussos_CV.pdf) 
+- 📄 [Download My CV (PDF)](Antonis_Roussos_CV.pdf) 
 - 💼 [LinkedIn](https://www.linkedin.com/in/antonis-roussos-1a05b72b2/)  
 - 🎮 [Itch.io](https://ohestisgames.itch.io)  
 - 🌐 [Portfolio Website](https://antonis-roussos-portfolio.netlify.app)  
